@@ -1,0 +1,3 @@
+https://mustafa.yildirim1:<git-access-token>@gitlab.com/mustafa.yildirim1/deneme.git
+https://mustafa.yildirim1:<git-access-token>@gitlab.com/mustafa.yildirim1/deneme2.git
+https://mustafa.yildirim1:<git-access-token>@gitlab.com/mustafa.yildirim1/deneme-deneme-deneme.git
